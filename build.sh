@@ -6,6 +6,9 @@ set -e
 
 echo "Starting KAIMING ENGLISH GRAMMAR EPUB build..."
 
+# Set default language
+LANG=${1:-eng}
+
 # Check if pandoc is installed
 if ! command -v pandoc &> /dev/null; then
     echo "Error: pandoc not found. Please install pandoc first."
@@ -19,9 +22,17 @@ fi
 # Create ebook directory if it doesn't exist
 mkdir -p ebook
 
-# Get all chapter files, sorted numerically
-chapter_files=$(find chapters -name "*.md" | sort -V)
-output_file=ebook/AIMING_ENGLISH_GRAMMAR.epub
+# Set chapter files and output file based on language
+if [ "$LANG" = "zh" ]; then
+    chapter_files=$(find translate -name "*.md" | sort -V)
+    output_file=ebook/AIMING_ENGLISH_GRAMMAR_zh.epub
+    metadata_language="zh-CN"
+else
+    chapter_files=$(find chapters -name "*.md" | sort -V)
+    output_file=ebook/AIMING_ENGLISH_GRAMMAR.epub
+    metadata_language="en"
+fi
+echo "Building for language: $LANG"
 
 if [ -z "$chapter_files" ]; then
     echo "Error: No markdown files found in translate directory"
@@ -43,7 +54,7 @@ pandoc \
     --css=epub.css \
     --metadata=title:"KAIMING ENGLISH GRAMMAR" \
     --metadata=author:"Lin Yutang" \
-    --metadata=language:"zh-CN" \
+    --metadata=language:"$metadata_language" \
     --metadata=description:"An OCR version of Lin Yutang's classic English grammar book" \
     --table-of-contents \
     --toc-depth=2 \
