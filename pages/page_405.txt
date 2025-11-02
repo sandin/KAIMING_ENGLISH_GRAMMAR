@@ -1,0 +1,8 @@
+CHAPTER XV
+RELATIONSHIPS
+
+15.10. Conjunctions and Logical Relationships.—The conjunctions in any language serve to bind the various parts of a sentence together. Grammatically speaking, they are the joints of the sentence structure. Notionally speaking, their function is to express the logical relationships. This latter view is broader and more comprehensive. We see, for instance, that English sentences often begin with conjj. like “and,” “therefore,” “but,” or “because”: “And I went away” / “Therefore I went away” / “But how can I do it?” / “(Why didn’t you go?) Because it was too late.” It would be easy to find their logical relationship with the preceding sentence, whereas it would not be so easy to establish their grammatical relationship with the same, because every sentence is supposed to be a separate unity.
+
+Simple, Compound and Complex Sentences
+
+15.20. Simple, Compound and Complex Sentences.—The parts of a simple sentence may all be classified as shown in the following scheme:—

@@ -1,0 +1,18 @@
+426 SYNOPSIS OF FORMAL GRAMMAR
+
+statement (as, for instance, a supposition) may not at all be expressed by the subjunctive form, as in if he comes, where the form is indicative but the meaning is subjunctive [§ 14.20]. Also, the form if he should come is called “subjunctive future” by old grammars, but this is a serious misnomer, because this form really belongs to the general tense and its use is not confined to the future [§ 14.21].
+
+The verb to be has special forms for the subjunctive mood: if I were [§ 14.23].
+
+23. Tense.—There are three main tenses: present, past and future [§ 13.10]. Within each of these main tenses, there are other tenses, as follows:
+
+                      Present         Past           Future
+Indefinite            I come          I came         I shall come
+Continuous            I am coming     I was coming   I shall be coming
+Perfect               I have come     I had come     I shall have come
+Perf. Contin.         I have been     I had been     I shall have been
+                      coming          coming         coming (rare)
+
+Regarding the use of the different tenses, see §§ 11.10, 13.21 (present indefinite), § 13.41 (the past), § 13.30 (the future), § 11.42 (the present perfect), § 11.43 (the continuous or progressive).
+
+24. The Principal Parts.—The present, the past and the past participle are called the three principal parts of a verb. Verbs which form their past and past participle by having -ed added are called “regular” (kick—kicked—kicked), while verbs which do not do so are called irregular (draw—drew—drawn / pay—paid—paid) [§ 13.50].

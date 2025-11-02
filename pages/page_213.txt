@@ -1,0 +1,25 @@
+"A," "AN" AND "THE"
+191
+
+really the same as Chinese i-ko (一個) and cheh-ko (這個). Hence, a is called "the indefinite article" and the is called the "definite article." A expresses indefinite singular (a boy), while indefinite plural is expressed without any article (boys). Thus we have—
+
+|          | Singular | Plural   |
+|----------|----------|----------|
+| Indefinite | a boy    | boys     |
+| Definite   | the boy  | the boys |
+
+All this is very simple and just like the Chinese i-ko jen, cheh-ko jen, jen (一個人, 這個人, 人). The only difference is Chinese nn. have no plural ending, so that the indefinite plural is expressed in Chinese, for example, by jen ta hu, hu ch'ih jen (人打虎, 虎喫人, like singular in form), but in English by Men kill tigers and Tigers eat men (in plural form).
+
+But in English, abstract nn. (knowledge, courage) and mass-words (water, milk) have no plural forms, because they really have no number and cannot be counted (it would be nonsense to say one knowledge, two knowledges), so it happens that indefinite abstract nn., like Chinese words, are expressed in the singular form without any article. Thus—
+
+ABSTRACT
+Knowledge is virtue.
+Knowledge kills virtue.
+Virtue kills knowledge.
+
+CONCRETE
+Women are men.
+Women marry men.
+Men marry women.
+
+Compare Chinese 女子無才便是德 ("Having no knowledge is a virtue for women"), with no article before 才, 德.

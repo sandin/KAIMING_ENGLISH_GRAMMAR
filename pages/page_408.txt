@@ -1,0 +1,12 @@
+386
+RELATIONSHIPS
+
+A relative pron. is really only a conjunctive pron., just as a relative adv. (the time when, the place where) is only a conjunctive adv., because its function is to connect the new clause with something else, besides serving its regular function inside the relative clause.
+
+Co-ordinate and Subordinate Clauses
+
+15.30. Co-ordinate and Subordinate Clauses.—In the complex sentences, it is clear that there is always one main or principal clause, and one or more subordinate or dependent clauses. The dependent clause is woven into, or dependent upon, the main clause, and is therefore rightly regarded as of lower rank. Thus in The man who was with you went away, the clause who was with you is dependent on the main clause The man went away.
+
+But even in some compound sentences, we can distinguish between main and dependent clauses. In He came, but I went, both clauses are evidently of equal importance, and there is no main or dependent clause. But in He would come, if I would go, clearly the first clause (He would come) is the main statement, and if I would go describes only a condition of his coming. The second clause is therefore felt to be of less importance or lower rank than the first. Thus we can have a main clause and a dependent clause even in a compound sentence.
+
+In such compound sentences, just what clause is considered main or dependent, and whether the two clauses are of equal or unequal importance depends entirely on the meaning. It cannot be judged from the grammatical form. Conj. like and, both, either . . . or, but, as well as,

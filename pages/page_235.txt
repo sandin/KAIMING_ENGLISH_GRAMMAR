@@ -1,0 +1,24 @@
+RELATIONSHIP BETWEEN MODIFIERS
+213
+
+Relationship between Modifiers
+
+9.22. Relationship between Modifiers.—It has been noticed in § 9.11 that the modifiers and modified stand in different ranks towards one another. E.g.—
+
+well      (3)     written       (2)     essay        (1)
+quite    (3)     well          (2)     written      (1)
+very     (3)     entertaining  (2)     book         (1)
+quickly  (3)     rising        (2)     reputation   (1)
+
+In the above examples, the first rank represents the modified, the second rank its modifier, and the third rank the modifier of the modifier. The modifier is supposed to be subordinate to, or of lower rank than, the modified.
+
+Keeping this in mind, we may distinguish the relationship between modifiers as either co-ordinate (of equal rank) or subordinate (lower rank). We have co-ordinate modifiers in good, healthy child (2 + 2 + 1), or pale, thin face (2 + 2 + 1), and one subordinate and one main modifier in rather bitter disappointment (3 + 2 + 1), or thinly concealed lie (3 + 2 + 1).
+
+9.23. Co-ordinate Modifiers (2 + 2 + 1).—Let us now first study the co-ordinate modifiers (2 + 2 + 1). The simplest cases are:—
+
+a small, clear handwriting           a sweet, graceful manner
+a beautiful, clear voice              those lonely, bare, stone houses
+a long, eventful career               that stingy, dirty, little black
+a thin, long face                     backyard
+
+Then, in English, we often have conjunctions of various kinds put in between these modifiers. E.g.—

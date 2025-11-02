@@ -1,0 +1,36 @@
+WORD-CLASSES AND WORD-RANKS
+205
+
+there are no other problems about sentence structure,
+because the subjects, principal vbb., objects and con-
+junctions are usually easy to find out. We shall study in
+this chapter, for instance, such common and important
+constructions as the relative clause, the prepositional
+phrase, the participial phrase, the infinitive phrase and
+the complements of principal vbb. which are all some
+form of modifiers.
+
+9.11. Word-Classes and Word-Ranks.—In the phrase
+exceptionally fine music, we say that fine modifies music,
+and exceptionally modifies fine. Here we feel the n. music
+to be the principal or chief word, and fine to be only a
+word used to qualify or modify it; exceptionally, again, is
+logically subordinate to fine. Hence, it is possible to
+speak of “word-rank”: the modified word seems to stand
+on a higher rank than its modifier. Similarly, we can
+distinguish three ranks in the phrases: very (3) entertain-
+ing (2) book (1), or quite (3) well (2) written (1), or rapidly
+(3) rising (2) reputation (1). It will help us to under-
+stand the relationships between modifiers and modified,
+if we use the terms “higher rank,” “lower rank” (or
+“subordinate”) and “equal rank” (or “co-ordinate”). Of
+course, we can have more than three ranks: thus in the
+following, each added word, except “a,” modifies the
+modifier which stands after it—
+
+an essay
+a written essay
+a well written essay
+a very well written essay
+a not very well written essay
+a certainly not very well written essay

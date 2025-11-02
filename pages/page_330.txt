@@ -1,0 +1,28 @@
+308
+ASPECTS OF ACTION
+
+passive forms may be, this formula remains unchanged. Compare the following changes of a vb. in the active and the parallel changes of the vb. to be in the passive, and see how exactly they correspond:—
+
+ACTIVE                                      PASSIVE
+(Vb. varies)                                (To be varies; p.p. unchanged)
+
+Pres. Indefinite    I see                     I am seen
+Past Indefinite     I saw                     I was seen
+Future Indefinite   I shall see               I shall be seen
+Pres. Perfect       I have seen               I have been seen
+Past Perfect        I had seen                I had been seen
+Future Perfect      I shall have seen         I shall have been seen
+Present Contin.     I am seeing               I am being seen
+Infinitive          to see                    to be seen
+Perfect Inf.        to have seen              to have been seen
+Participle          seeing                    being seen
+Perfect Part.       having seen               having been seen
+
+It will be seen that in the formation of the passive tenses, all that is necessary is to decline the vb. to be like any other vb. while keeping the p.p. unchanged.
+
+Usually only transitive vbb. can be put in the passive voice, as we can easily turn the active Jack kills (v.t.) Jill into the passive Jill is killed by Jack, but we cannot easily make the active I sleep (v.i.) into a passive—is slept by me, which would be meaningless. Intransitive vbb. with prepp. following, however, may very well be put in the passive voice, as The accounts must be looked into (from the active We must look into the accounts: see §12.41).
+
+Exercise 93. Transform the following active phrases into passive phrases. The active subject may be omitted for practice.
+
+1. We spent a great deal of money.
+2. We have spent a great deal of money.

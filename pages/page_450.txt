@@ -1,0 +1,20 @@
+428
+SYNOPSIS OF FORMAL GRAMMAR
+
+CONJUNCTIONS
+
+29. Definition.—A conjunction is a word used for connecting words or groups of words: “this and that” / “He was there or he was not.”
+
+30. Classification.—Conjunctions which connect clauses equal in importance or logical relationship are called co-ordinate, while conjunctions which express an unequal logical relationship are called subordinate. Clauses of equal rank are called “co-ordinate”; when there are two unequal clauses, the one which contains the principal verb is called the main clause, while the other which is a component part of the main clause is called the dependent or subordinate clause [§ 15.30].
+
+INTERJECTIONS
+
+31. Definition.—An interjection is a word or phrase which is used in an exclamation.
+
+*     *     *
+
+32. A sentence is a group of words which expresses a complete meaning [§ 3.10].
+
+33. Subject and Predicate.—The subject of the principal verb is called the subject of the sentence. The principal verb and any words attached to it, such as the object, complements or modifiers, together form the predicate.
+
+34. A complement is that part of a sentence which is added to complete the meaning of the principal verb, as

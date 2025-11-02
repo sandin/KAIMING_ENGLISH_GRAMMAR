@@ -1,0 +1,10 @@
+430
+SYNOPSIS OF FORMAL GRAMMAR
+
+number, person, mood, tense of finite verbs, the degrees
+of adjectives and adverbs, and to state the relationships of
+the different words in the sentence.
+
+40. To give the conjugation of a verb, or to conjugate
+it, is to state its forms in the different moods, tenses,
+persons and numbers.

@@ -1,0 +1,18 @@
+424
+SYNOPSIS OF FORMAL GRAMMAR
+
+17. Classification.—Verbs may be classified as transitive, intransitive and auxiliary.
+
+Transitive verbs may directly govern an object, as: “I see (v.t.) you (object)” [§ 11.20].
+
+Intransitive verbs do not govern objects (I was sleeping), but may be followed by a prepositional phrase (I was sleeping in his bed) [§ 11.21].
+
+An auxiliary or helping verb is used with other verbs, as: “I can see” / “I will go” [§ 13.60].
+
+18. Person and Number.—Verbs agree with their subjects in number and person. Actually, only the third person singular present indicative has a special form: “He comes.” The two verbs to be and to have have more special forms: I have, thou hast, he has, we (you, they) have / I am, thou art, he is, we (you, they) are. For the past tense, the verb to be has also distinctive forms: I was, thou wert, he was, we (you, they) were.
+
+The forms with -est for thou (Thou comest) and the forms with -eth for the third person singular (He cometh) are archaic.
+
+19. Finite and Infinitive.—Verbs connected with definite subjects (He comes) are called finite verbs; those that are not so connected, but follow the word to, are said to be in the infinitive mood (to come).
+
+20. Participles.—Verbs which are used like adjectives are called participles. The present participle is always formed by adding -ing, while the past participle is usually formed by adding -ed. The irregular verbs form their

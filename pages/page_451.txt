@@ -1,0 +1,14 @@
+SYNOPSIS OF FORMAL GRAMMAR
+429
+
+“I should like to go” / “He was made king” / “Paint it white.” An object is, by definition, also a complement, as “I killed him” [§ 9.90].
+
+35. Direct and Indirect Objects.—The person for whom or to whom a thing is done is called the indirect object of the verb: “I gave you (indirect obj.) a knife (direct obj.)” [§ 12.31].
+
+36. A clause is a sentence within a sentence.—It is distinguished from a phrase by having a subject and predicate like a complete sentence [§ 3.23]. A noun clause is a clause used as a noun [§ 3.64], an adverb clause is a clause used as an adverb, and a relative clause is a clause preceded by a relative pronoun or adverb [§ 9.60].
+
+37. A phrase is a group of words which does not contain a subject and a finite verb [§ 3.23]. A participial phrase begins with a participle [§ 9.40], a prepositional phrase begins with a preposition [§ 9.50], and an infinitive phrase begins with an infinitive [§ 9.31]. When such phrases are used as adjectives or adverbs, they are also called adjective and adverb phrases respectively. A participial phrase which contains the word modified by its own participle is called an absolute participial phrase [§ 9.42].
+
+38. A compound sentence is made up of two or more co-ordinate clauses. A complex sentence is made up of one main clause and one or more dependent clauses [§ 15.20].
+
+39. To parse a sentence is to tell the parts of speech of each of its words and to give the gender, number, case of nouns and pronouns (also the person of pronouns), the

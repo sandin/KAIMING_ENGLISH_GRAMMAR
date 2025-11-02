@@ -1,0 +1,9 @@
+CHAPTER XI
+SUBJECT AND OBJECT
+(TRANSITIVE ACTION)
+
+12.10. Subject and Doer.—We shall now see the relation between the subject, the object, and the vb of action. It should be realized that the “subject” of a vb and the “doer” of an action are not always the same thing. It is true that, ordinarily, the subject is the doer of an action, as in He teaches English / She plays piano. But in the passive voice, we immediately see that this is not true, as in I am told, and the officer has been impeached, where the subjects I and officer do nothing whatsoever, but are only affected by the actions mentioned. Also in This is a book, no action is implied at all: the subject this does nothing.
+
+A subject is usually defined as the person or thing we talk about, while all that is said about the subject is called the predicate, (vb. and object included). This general definition will do for practical purposes, although in He teaches English, we really talk about the teaching (vb.) and what is taught (object), as well as about the person who does the teaching (subject).
+
+It should be realized, therefore, that the notion “subject” is purely grammatical. It indicates merely a certain grammatical function in a sentence. English vbb. always require a subject, whereas Chinese vbb. don’t. In English, we say It rains, although we do not know what rains, perhaps “heaven,” perhaps (still better) the rain itself. In Chinese, we are not compelled to find or express the

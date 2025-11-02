@@ -1,0 +1,26 @@
+402
+RELATIONSHIPS
+
+15.62. The Semi-Colon.—The semi-colon is usually used to separate parallel constructions or to mark a greater division of the sentence than is indicated by the comma. The characteristic of the semi-colon is that, with it, one can begin a new clause without any conjunction. E.g.—
+
+This was not due to carelessness; it was due to wilful neglect.
+
+The same sentence could be written as—
+
+This was not due to carelessness, but (it was) due to wilful neglect.
+
+or—
+
+This was not due to carelessness. It was due to wilful neglect.
+
+One feels, however, that the two parallel statements are quite closely connected, and do not deserve to be separated by a full stop. The semi-colon, therefore, marks a division point between the full stop and the comma.
+
+Where the logical relationship justifies the use of a semi-colon, it may be used even with a conj.—
+
+This was not ideal; still, it was the best one could expect under the circumstances.
+
+Exercise 113. Correct the following by replacing commas with semi-colons or otherwise with appropriate conj.—
+
+1. She was sent to Shanghai without her mother’s knowledge, it was against the latter’s wish.
+
+2. Policemen were standing in the middle of the road, they stopped the tram-cars and the buses, automobiles were searched, and all passengers were subjected to a close examination.

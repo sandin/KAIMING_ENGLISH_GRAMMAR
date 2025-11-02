@@ -1,0 +1,38 @@
+SYNOPSIS OF FORMAL GRAMMAR
+425
+
+p.p. by adding -n, -en (beaten, drawn) or by some other
+modification (slept) [§ 13.50].
+
+The present participle is used to denote active or
+incomplete action (a deceiving letter, a drowning man).
+The past participle is used to denote passive or completed
+action (a deceived person, a drowned man) [§§ 2.33, 11.44].
+
+21. Voice.—A verb may be in the active or passive
+voice [§ 11.30]. When something is done to the subject,
+the verb is in the passive voice (“I was sent away”). The
+passive voice is formed by the different forms of the verb
+to be plus the past participle: was (past of to be) sent (p.p.
+of send), shall be sent, have been, etc. [§ 11.31].
+
+22. Mood.—Verbs are said to be in any of the follow-
+ing moods:
+
+Finite {Indicative: He comes.
+        Imperative: Come.
+        Subjunctive: If he come.
+Infinitive: To come.
+
+Some grammars recognize also the interrogative mood
+[§ 14.10].
+
+The indicative mood is the usual mood used for
+making statements. The imperative is used for giving
+commands, which are usually confined to the second person
+(you). The subjunctive is used in stating a supposition,
+and is distinguished by having no -s added in the third
+person singular present tense [§ 14.21].
+
+Note that the so-called subjunctive mood refers strictly
+to the form of the verb [§ 14.12]. A really subjunctive

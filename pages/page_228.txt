@@ -1,0 +1,10 @@
+206
+MODIFICATION
+
+Word-ranks are different from word-classes or parts of speech. Usually the first modified word is a n., the first modifier is an adj., and the third, fourth and further modifiers are advv. But this is not always the case: thus in the phrase He writes well, the modified word is a vb. write, and not a n., and the first modifier is an adv. well, and not an adj. It is, therefore, necessary to keep the two classes of ideas apart: the terms, “noun,” “pronoun,” “adjective,” “adverb,” etc. refer to their word-classes, while the terms “modifier” and “modified” express their word-ranks with reference to one another.* Thus, in the phrase book cover, we may say the n. book is a “modifier” of the n. cover. This is probably clearer than to say that “the n. book is used as an adj.” We speak of “modifiers” and “modified” when referring to work-ranks, and speak of ‘nouns,” “adjectives,” etc. when referring to word-classes or parts of speech.
+
+* * *
+
+The following sections (§§9.20-9.27, pp. 207-227) may be partly or entirely omitted at the teacher’s discretion for less advanced classes.
+
+* Jespersen, who first enunciated the theory of “word-ranks,” uses the term “primary” for the chief modified word, “adjunct” (or “secondary word”) for the first modifier, and “subjunct” (or “tertiary word”) for the second modifier. For the sake of simplicity, which is quite a consideration in grammars for students, these words are avoided, and only the terms “modifier” and “modified” are used here.

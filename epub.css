@@ -1,0 +1,222 @@
+/* Base styles */
+body {
+    font-family: "SimSun", "STSong", "Noto Serif SC", serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 2em;
+    color: #333;
+    text-align: justify;
+}
+
+/* Title styles */
+h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 1em;
+    border-bottom: 2px solid #8B4513;
+    padding-bottom: 0.5em;
+    color: #2c3e50;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+    border-left: 4px solid #8B4513;
+    padding-left: 0.5em;
+    color: #34495e;
+}
+
+h3 {
+    font-size: 1.2em;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+    color: #555;
+}
+
+/* Paragraph styles */
+p {
+    margin-bottom: 1em;
+    text-indent: 2em;
+}
+
+/* Remove indentation for first paragraph after headings */
+h1 + p, h2 + p, h3 + p {
+    text-indent: 0;
+}
+
+/* Code block styles */
+pre, code {
+    font-family: "Courier New", "Monaco", monospace;
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 3px;
+}
+
+pre {
+    padding: 1em;
+    overflow-x: auto;
+    font-size: 0.9em;
+}
+
+code {
+    padding: 0.2em 0.4em;
+    font-size: 0.95em;
+}
+
+/* Quote styles */
+blockquote {
+    border-left: 4px solid #8B4513;
+    margin: 1em 0;
+    padding-left: 1em;
+    color: #666;
+    background-color: #f9f9f9;
+    font-style: italic;
+}
+
+/* List styles */
+ul, ol {
+    margin: 1em 0;
+    padding-left: 2em;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Table styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    font-size: 0.95em;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+/* Link styles */
+a {
+    color: #8B4513;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+/* Page margins */
+@page {
+    margin: 2em;
+}
+
+/* Special section styles */
+.chapter-title {
+    page-break-before: always;
+    text-align: center;
+}
+
+.exercise {
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    padding: 1em;
+    margin: 1em 0;
+    border-radius: 5px;
+    border-left: 4px solid #3498db;
+}
+
+.example {
+    font-style: italic;
+    color: #555;
+    margin-left: 2em;
+    background-color: #fef9e7;
+    padding: 0.5em;
+    border-radius: 3px;
+}
+
+.note {
+    background-color: #fffacd;
+    border-left: 4px solid #f39c12;
+    padding: 0.5em 1em;
+    margin: 1em 0;
+    border-radius: 0 3px 3px 0;
+}
+
+.warning {
+    background-color: #ffeaa7;
+    border-left: 4px solid #e74c3c;
+    padding: 0.5em 1em;
+    margin: 1em 0;
+    border-radius: 0 3px 3px 0;
+}
+
+.definition {
+    background-color: #d5f5e3;
+    border: 1px solid #27ae60;
+    padding: 1em;
+    margin: 1em 0;
+    border-radius: 5px;
+}
+
+/* Grammar specific styles */
+.grammar-rule {
+    font-weight: bold;
+    color: #8B4513;
+}
+
+.english-example {
+    font-family: "Times New Roman", serif;
+    color: #2c3e50;
+}
+
+.chinese-translation {
+    color: #7f8c8d;
+    font-style: italic;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+        margin: 1em;
+    }
+    
+    h1 {
+        font-size: 1.5em;
+    }
+    
+    h2 {
+        font-size: 1.3em;
+    }
+}
+
+/* Print styles */
+@media print {
+    body {
+        font-size: 12pt;
+        margin: 1cm;
+    }
+    
+    a {
+        color: #000;
+    }
+}

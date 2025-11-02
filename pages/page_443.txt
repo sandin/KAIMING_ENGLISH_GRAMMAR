@@ -1,0 +1,31 @@
+SYNOPSIS OF FORMAL GRAMMAR
+
+By formal grammar is meant the kind of grammatical
+study which concerns itself with the given forms of the lan-
+guage. Formal grammar studies the classification of words,
+the definitions for the different classes, the changes in form
+peculiar to each class, and analysis of the sentence structure.
+
+A purely theoretical study of the formal aspects of a lan-
+guage always requires the counting of so many kinds of adj.,
+adv., etc., and in order to make the system exact, arbitrary
+definitions must be given to them. It is surprising, however,
+how little of this formal grammar is needed by the foreign
+student of the language. From the practical point of view,
+the following summary should be sufficient for the average
+student. References are given to sections in this book, which
+discuss the respective points at greater length.
+
+NOUNS
+
+1. Definition.—Nouns denote things. These may in-
+clude an action (examination) or a quality (goodness)
+[§ 2.11].
+
+2. Classification.—Nouns may be classified as follows:
+
+Common: city (§ 4.40)
+Proper: Ningpo (§ 4.40)
+Collective: committee (§ 4.50)
+Material: water (§ 4.51)
+Abstract: kindness (§ 4.30)

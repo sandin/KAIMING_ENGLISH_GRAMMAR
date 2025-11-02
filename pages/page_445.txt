@@ -1,0 +1,25 @@
+SYNOPSIS OF FORMAL GRAMMAR
+423
+
+Singular        Plural
+1st person      I               we
+2nd person      thou, you       you
+3rd person      he, she, it     they
+
+10. Case.—There are three cases, nominative, possessive [§ 8.30] and objective which have different forms for the personal pronouns [§ 7.20].
+
+11. The relative pronoun is a pronoun which introduces a new clause, and at the same time refers to a preceding word, called its antecedent [§ 9.60].
+
+ADJECTIVES
+
+12. Definition.—An adjective is a word used to modify a noun or pronoun.
+
+13. Classification.—The classification of adjectives into “descriptive,” “demonstrative,” “quantitative,” etc. has no real practical meaning.
+
+14. Definite and Indefinite Articles.—The is called the definite article, and a (an) is called the indefinite article [§ 8.70].
+
+15. Comparison.—Adjectives have three degrees of comparison: positive, comparative and superlative (good—better—best / white—whiter—whitest) [§ 10.10].
+
+VERBS
+
+16. Definition.—Verbs are words that tell what persons or things do.

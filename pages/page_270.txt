@@ -1,0 +1,19 @@
+248
+MODIFICATION
+
+(A) This is the house that Jack built.
+(B) Jack built this house, which was used for keeping malt.
+
+In sentence A, the rel. clause defines, or limits, the meaning of the antecedent house. The meaning of the main clause “this is the house” would be left undefined, if the c’ause “that Jack built” were not added. But in sentence B, the main clause—“Jack built this house”—is quite complete in meaning, and the adding of the relative clause which to malt does not in any way limit its meaning, but only attaches a comment to it. The function of that in sentence A is, therefore, a “defining” or “demonstrative” or “determinative” function, serving to point out which one, while the function of which in sentence B is “non-defining” or “commentative,” and often purely “descriptive.” Further examples follow—
+
+(A) This is the rat that ate the malt that lay in the house that Jack built.
+The doctor examines the rat that carries the flea that harbours the germ that infects the poor Indian.
+She was the first Chinese woman that (who) ever took a doctor’s degree at Harvard.
+The man that you saw this morning is my uncle.
+It is something that can’t be done in a few days.
+
+(B) He is preaching Confucianism, which is steadily losing its influence today.
+The system of parliamentary government, which sounds so well on paper, has failed in China.
+Even if you could get the money, which isn’t as easy as you think, you still would have to find the man to do it.
+So we were forced to stop at the little village, which was against our original plan.
+More and more people are beginning to learn English, which is becoming very popular in China.

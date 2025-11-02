@@ -1,0 +1,18 @@
+POST-NOMINAL POSITION OF MODIFIERS
+259
+
+rel. pron. or rel. adv. always refers to an antecedent. The antecedent is in most cases a n. (“the man who came”), but sometimes it may be a whole statement (“He says that I didn’t care, which is untrue”).
+
+9.81. Post-Nominal Position of Modifiers.—A result of the use of the modifying phrases and clauses mentioned above is that, in English, we often have modifying phrases or clauses coming after the word they modify. With the exception of the participial phrase, which may also come before the word it modifies, all these constructions always come after the word modified.
+
+Inf. A book to read.
+Part. A book selling for a dollar a copy.
+Rel. The book that I like.
+Prep. The book on the top shelf.
+
+As the Chinese language depends entirely on word-order for indicating the relationship between modifier and the modified word, this post-nominal position is impossible in Chinese. We may say the modified word or the word modified in English, but not in Chinese. The Chinese language loses therefore in flexibility in this respect, and the translation of such English modifying phrases into Chinese is often cumbersome and awkward.
+
+Exercise 84. Try to translate the following sentences, and observe the word-order in the Chinese translation.
+
+1. This is the dog that worried the cat that killed the rat that ate the malt that lay in the house that Jack built.
+2. It is untrue that I had borrowed three hundred dollars from him at five percent interest and that I had agreed to pay it back in a year.

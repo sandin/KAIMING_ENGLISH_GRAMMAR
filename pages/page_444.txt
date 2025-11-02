@@ -1,0 +1,26 @@
+422
+SYNOPSIS OF FORMAL GRAMMAR
+
+3. Gender.—There are four genders [§ 4.71]:—
+    1. Masculine: man
+    2. Feminine: woman
+    3. Common: teacher
+    4. Neuter: chalk
+
+4. Number.—There are two numbers in English: singular (one) and plural (more than one) [§ 5.20]. Plurals which are formed by adding -s are called regular (windows): others not so formed are called irregular (children) [§ 5.22].
+
+5. Case.—When a noun is used as the subject, it is in the nominative case; when it denotes possession (man’s), it is in the possessive case; when it is used as an object, it is in the objective case. In English only the possessive case of nouns is distinguished by a special form.
+
+PRONOUNS
+
+6. Definition.—A pronoun is a word used in place of a noun (he for John, this for this book).
+
+7. Classification.—Pronouns may be classified as follows [§ 8.11]:
+    Personal: he
+    Demonstrative: this, that
+    Relative: “the boy who came”
+    Interrogative: who?, what?
+
+8. Gender.—There are four genders, as in the case of nouns. Actually, gender is distinguished only in the third person singular of personal pronouns (he, she and it).
+
+9. Person and Number.—There are three persons and two numbers, as follows:

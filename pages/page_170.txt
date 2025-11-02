@@ -1,0 +1,28 @@
+148
+REPRESENTATION
+
+|          | Singular     | Plural |
+|----------|--------------|--------|
+| First Person  | I            | we     |
+| Second Person | you (thou)   | you    |
+| Third Person  | he, she, it  | they   |
+
+The words I, you, he, etc. used as subjects of vbb. are said to be in the “nominative case”; the words my, your, his, etc. are said to be in the “possessive case”; and the words me, you, him, etc. used as objects of vbb. (see me) or of prepp. (for me) are said to be in the “objective case.”
+
+| Nominative | I      | (thou) | he   | she  | it   | we   | you  | they | who  |
+|------------|--------|--------|------|------|------|------|------|------|------|
+| Possessive | my     | (thy)  | his  | her  | its  | our  | your | their| whose|
+| Objective  | me     | (thee) | him  | her  | it   | us   | you  | them | whom |
+
+The peculiar thing about the pronn. in the objective case is that they are usually unaccented and are joined to the preceding vbb. or prepp. in pronunciation as if they were syllables of the same word. Thus—
+
+Don’t believe it [biˈliːvɪt].
+Don’t tell them [ˈtelðəm, ˈteləm].
+I can’t see him [ˈsiːhɪm, ˈsiːɪm, ˈsiːm].
+Was glad to meet her [ˈmiː tə] (pr. just like meter).
+No use denying it [diˈnaɪiŋɪt].
+in it [ˈinit], above it [əˈbavɪt].
+once upon a time [ˈwʌnsəpɒnəˈtaɪm].
+at home [ætˈhəʊm, or: əˈtəʊm], at it [ætit, or: əˈtɪt].
+to him [ˈtuː(ː)ɪm], to me [ˈtuːmiː].
+for us [ˈfɔːrəs, ˈfɔːrəs; or: ˈfɔːr-].
